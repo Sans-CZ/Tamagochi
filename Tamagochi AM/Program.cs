@@ -48,5 +48,5 @@ catch (DeadPetException)
 {
     Console.WriteLine("RIP, pes umřel");
 }
-
+//kuk
 Console.WriteLine($"Přežil {count} kol");
